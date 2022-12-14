@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77b25039.css",
+    "main.js": "/static/js/main.f971b507.js",
+    "static/js/787.66b477fd.chunk.js": "/static/js/787.66b477fd.chunk.js",
+    "static/media/grid_5.png": "/static/media/grid_5.3dd6a9fb53bbecfb4ad3.png",
+    "static/media/heroBackground.png": "/static/media/heroBackground.b01f964e4ec6fa054256.png",
+    "static/media/grid_3.png": "/static/media/grid_3.8103ec7b3442ff771da4.png",
+    "static/media/footerBackground.png": "/static/media/footerBackground.69507efd88500f5f703a.png",
+    "static/media/grid_4.png": "/static/media/grid_4.0303bca7d976d801e369.png",
+    "static/media/grid_6.png": "/static/media/grid_6.0135b86758ac323cbe7b.png",
+    "static/media/grid_1.png": "/static/media/grid_1.116181a860526450f56f.png",
+    "static/media/grid_2.png": "/static/media/grid_2.5d700adf791cde2cf48f.png",
+    "static/media/grid_7.png": "/static/media/grid_7.7bccbc0576b27a38a47b.png",
+    "static/media/serviceIllustration2.png": "/static/media/serviceIllustration2.6bcd2e02061f321f277a.png",
+    "static/media/serviceIllustration1.png": "/static/media/serviceIllustration1.15ae26dfe84b096710f6.png",
+    "static/media/sbp.png": "/static/media/sbp.fa7d0be7fd4e2792f478.png",
+    "static/media/ibope.svg": "/static/media/ibope.cb2c97aa8fb519b5b9d4583f28d145f6.svg",
+    "static/media/li_logo.svg": "/static/media/li_logo.8cb08e55ef53f14eeebfd05d3227b966.svg",
+    "static/media/logo.svg": "/static/media/logo.04e6868aa319529ff9f30149e0364574.svg",
+    "static/media/logoWhite.svg": "/static/media/logoWhite.73c9b561969be356e285376a42621e9e.svg",
+    "static/media/sgv_logo.svg": "/static/media/sgv_logo.cd89a216f79aad7a69611a6f1f77bf9c.svg",
+    "index.html": "/index.html",
+    "main.77b25039.css.map": "/static/css/main.77b25039.css.map",
+    "main.f971b507.js.map": "/static/js/main.f971b507.js.map",
+    "787.66b477fd.chunk.js.map": "/static/js/787.66b477fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b25039.css",
+    "static/js/main.f971b507.js"
+  ]
+}
