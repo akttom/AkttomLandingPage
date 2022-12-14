@@ -1,0 +1,72 @@
+.topCenter {
+  grid-area: topCenter;
+}
+
+.topLeft {
+  grid-area: topLeft;
+}
+
+.topMiddleLeft {
+  grid-area: topMiddleLeft;
+}
+
+.topRight {
+  grid-area: topRight;
+  /* height: 375px; */
+}
+
+.middle {
+  grid-area: middle;
+  /* height: 375px; */
+  background-color: #ABEABD;
+  border-radius: 6px;
+  display: flex;
+  padding: 0 95px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.whatsappTitle {
+  gap: 48px;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 35%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.bottomLeft {
+  grid-area: bottomLeft;
+}
+
+.bottomRight {
+  grid-area: bottomRight;
+  /* height: 375px; */
+}
+
+.grid-container {
+  display: grid;
+  gap: 18px;
+  /* grid-template-rows: 100px 1fr; */
+  grid-template-areas:
+    'topLeft topCenter topRight'
+    'topMiddleLeft topCenter topRight'
+    'middle middle middle'
+    'bottomLeft bottomLeft bottomRight';
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 178.5px 178.5px 375px 375px;
+}
+
+/* .grid-container>div {
+  height: auto;
+  width: auto;
+} */
+
+.grid-container>div>img {
+  object-fit: cover;
+}
