@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AkttomLandingPage/static/css/main.77b25039.css",
-    "main.js": "/AkttomLandingPage/static/js/main.5460af0b.js",
+    "main.css": "/AkttomLandingPage/static/css/main.72c93e4b.css",
+    "main.js": "/AkttomLandingPage/static/js/main.f7c1c985.js",
     "static/js/787.66b477fd.chunk.js": "/AkttomLandingPage/static/js/787.66b477fd.chunk.js",
     "static/media/grid_5.png": "/AkttomLandingPage/static/media/grid_5.3dd6a9fb53bbecfb4ad3.png",
     "static/media/heroBackground.png": "/AkttomLandingPage/static/media/heroBackground.b01f964e4ec6fa054256.png",
@@ -21,12 +21,12 @@
     "static/media/logoWhite.svg": "/AkttomLandingPage/static/media/logoWhite.73c9b561969be356e285376a42621e9e.svg",
     "static/media/sgv_logo.svg": "/AkttomLandingPage/static/media/sgv_logo.cd89a216f79aad7a69611a6f1f77bf9c.svg",
     "index.html": "/AkttomLandingPage/index.html",
-    "main.77b25039.css.map": "/AkttomLandingPage/static/css/main.77b25039.css.map",
-    "main.5460af0b.js.map": "/AkttomLandingPage/static/js/main.5460af0b.js.map",
+    "main.72c93e4b.css.map": "/AkttomLandingPage/static/css/main.72c93e4b.css.map",
+    "main.f7c1c985.js.map": "/AkttomLandingPage/static/js/main.f7c1c985.js.map",
     "787.66b477fd.chunk.js.map": "/AkttomLandingPage/static/js/787.66b477fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77b25039.css",
-    "static/js/main.5460af0b.js"
+    "static/css/main.72c93e4b.css",
+    "static/js/main.f7c1c985.js"
   ]
 }
